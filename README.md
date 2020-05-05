@@ -3,7 +3,7 @@
 
 My course work for Clas299 at the College of the Holy Cross featuring analysis from numerous archaeology projects. Much of the work in the course involved coding in Scala and looking at a variety from the Mediterranean world including coin hoards, denominations of coins, tomb counts in Lycia, and a variety of other projects. Some of my coding can be found here:
 
-github.com/mattpiekarczyk/clas299
+https://github.com/mattpiekarczyk/clas299
 
 For my final project, I looked at Greek Painted Pottery with my classmate, Dylan Garland. We looked at the Beazley dataset, as well as the Pioneer Group of pottery painters. We started with a large dataset, but chose to first find the most popular "shape" of pottery and then look at the spread of the pottery overtime. The code for the project can be found here:
 
