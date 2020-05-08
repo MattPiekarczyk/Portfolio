@@ -3,7 +3,10 @@
 
 My course work for Clas299 at the College of the Holy Cross featuring analysis from numerous archaeology projects. Much of the work in the course involved coding in Scala and looking at a variety from the Mediterranean world including coin hoards, denominations of coins, tomb counts in Lycia, and a variety of other projects. A link to my github and a Jupyter Notebook to run any of my code can be found here:
 
+Github:
 [Main github](https://github.com/mattpiekarczyk/clas299) 
+
+My Binder:
 [My Binder To Run Any Code](https://mybinder.org/v2/gh/MattPiekarczyk/clas299/master?filepath=README.md)
 
 For my final project, I looked at Greek Painted Pottery with my classmate, Dylan Garland. We looked at the Beazley dataset, as well as the Pioneer Group of pottery painters. We started with a large dataset and Dylan created the map below. It gave us a good idea of the sheer amount of variety of shapes. Each color on the map portrays a different number of shapes at that find spot. Naturally, Vulci caught our eye right away with 20+ different shapes found at that spot. This can be seen in the map below:
