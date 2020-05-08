@@ -13,9 +13,7 @@ My Binder:
 For my final project, I looked at Greek Painted Pottery with my classmate, Dylan Garland. We looked at the Beazley dataset, as well as the Pioneer Group of pottery painters. We started with a large dataset and Dylan created the map below. It gave us a good idea of the sheer amount of variety of shapes. Each color on the map portrays a different number of shapes at that find spot. Naturally, Vulci caught our eye right away with 20+ different shapes found at that spot. This can be seen in the map below:
 
 Dylan goes into more detail on this image [here](https://dylangarland21.github.io/portfolio/).
-With the variety of shapes spread throughout the region, we had the idea to look the most popular shape and see if this "popular shape" could be found even in find spots with a low "shape" count. The code for discovering this idea, and the project, can be found here:
-
-[Final Project Code](https://mybinder.org/v2/gh/MattPiekarczyk/clas299/master?filepath=FinalProjectCode_2.ipynb)
+With the variety of shapes spread throughout the region, we had the idea to look the most popular shape and see if this "popular shape" could be found even in find spots with a low "shape" count. The code for discovering this idea, and the project, can be found [here](https://mybinder.org/v2/gh/MattPiekarczyk/clas299/master?filepath=FinalProjectCode_2.ipynb).
 
 Some interesting information was found, firstly that the hydriai was the most popular shape among the painted pottery around the Mediterranean; however, it was mainly found in areas with higher shape variety like Vulci and Athens. Vulci was the most popular findspot for the hydriai pottery. This connects well with the previous finding, that being that Vulci had the most variety in shapes among the many find spots. We decided to turn our attention to which groups were responsible for the hydriai in Vulci and began looking at the Pioneer Group, one of the most famous groups of painters in the Painted Pottery Market. The results are included in the previous code link. 
 
